@@ -1,0 +1,9 @@
+[
+    {
+        "nome": "joao",
+        "quantidade": 1,
+        "preco": 1.0,
+        "validade": "15/08/2006",
+        "fornecedor": "ETEP"
+    }
+]

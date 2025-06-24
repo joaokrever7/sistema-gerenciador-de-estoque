@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "joao",
+        "quantidade": 1,
+        "preco": 100.0,
+        "validade": "15/08/2006",
+        "fornecedor": "ETEP"
+    },
+    {
+        "nome": "Dienifer",
+        "quantidade": 1,
+        "preco": 10.0,
+        "validade": "30/11/2006",
+        "fornecedor": "ETEP"
+    }
+]
